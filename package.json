@@ -1,0 +1,16 @@
+{
+  "name": "tictactoe-discord-bot",
+  "version": "1.0.0",
+  "description": "bot to play tic-tac-toe with friends",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kennedfer",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
